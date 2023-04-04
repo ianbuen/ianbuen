@@ -9,14 +9,16 @@
 <p>Story time! - I've learned how to code back when I was 13, customizing my Friendster profile with HTML & CSS. I took up Computer Science back in college, got introduced to C and Java but as far as web-dev is concerned, most of the learnings were on my own- you know how it is. It is through self-learning that I got to know how to use the modern technologies in web development.</p>
 <br />
 
-<h2>I'm good at:</h2>
-<img src="./list-skills.png" />
-
 <br />
 <p>🔭 I’m currently working on my portfolio as well as some frontend exercises/challenges</p>
 <p>💼 I’m open for freelance work/tutoring.</p>
-<p>🌱 I’m currently learning different APIs, CMS, UI libraries</p>
+<p>🌱 I’m currently learning different APIs, CMS, backends</p>
 <p>💬 Ask me about anything web-dev related.</p>
+
+<br />
+
+<h2>I'm good at:</h2>
+<img src="./list-skills.png" />
 
 <!--
 **ianbuen/ianbuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
