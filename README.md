@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="200px" />
   <h1 align="center">Hiya, Ian here!</h1>
-  <p>Frontend Web Developer</p>
+  <p>[ Frontend Web Developer ]</p>
+  <p>I focus on frontend usually, but I can do full-stack too</p>
   <img src="https://komarev.com/ghpvc/?username=ianbuen&color=f44336&label=My+visitors" />
 </div>
 
 <br />
-<p>I focus on frontend usually, but I can do full-stack too</p>
 <p>Story time! - I've learned how to code back when I was 13, customizing my Friendster profile with HTML & CSS. I took up Computer Science back in college, got introduced to C and Java but as far as web-dev is concerned, most of the learnings were on my own- you know how it is. It is through self-learning that I got to know how to use the modern technologies in web development.</p>
 <br />
 
