@@ -15,7 +15,7 @@
 <br />
 <p>🔭 I’m currently working on my portfolio as well as some frontend exercises/challenges</p>
 <p>💼 I’m open for freelance work/tutoring.</p>
-<p>🌱 I’m currently learning different APIs, CMS, backends</p>
+<p>🌱 I’m currently learning different APIs, CMS, UI libraries</p>
 <p>💬 Ask me about anything web-dev related.</p>
 
 <!--
