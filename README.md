@@ -12,10 +12,11 @@
 <h2>I'm good at:</h2>
 <img src="./list-skills.png" />
 
-🔭 I’m currently working on my portfolio as well as some frontend exercises/challenges
-💼 I’m open for freelance work.
-🌱 I’m currently learning different APIs, CMS, backends
-💬 Ask me about anything web-dev related.
+<br />
+<p>🔭 I’m currently working on my portfolio as well as some frontend exercises/challenges</p>
+<p>💼 I’m open for freelance work/tutoring.</p>
+<p>🌱 I’m currently learning different APIs, CMS, backends</p>
+<p>💬 Ask me about anything web-dev related.</p>
 
 <!--
 **ianbuen/ianbuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
