@@ -7,7 +7,7 @@
 </div>
 
 <br />
-<p>Story time! - I've learned how to code back when I was 13, customizing my Friendster profile with HTML & CSS. I took up Computer Science back in college, got introduced to C and Java but as far as web-dev is concerned, most of the learnings were on my own- you know how it is. It is through self-learning that I got to know how to use the modern technologies in web development.</p>
+<p>Story time! - I've learned how to code back when I was 13, customizing my Friendster profile with HTML & CSS. I took up Computer Science back in college, got introduced to C and Java, Data Structures and Algorithms, but as far as web-dev is concerned, most of the learnings were on my own- you know how it is. It is through self-learning that I got to know how to use the modern technologies in web development.</p>
 <br />
 
 <br />
